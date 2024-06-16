@@ -1,4 +1,9 @@
-# 100-dias-de-JavaScript
-100 dias desenvolvendo projetos com JavaScript para aprender e aperfeiçoar meu JavaScript.
+# Day #4
 
-Todos os projetos desse desafio foi inspirado pelo canal no Youtube do https://www.youtube.com/@AsmrProg
+### QR Code Generator
+Nesse projeto desenvolvi um gerador de QR Code usando HTML, CSS, JavaScript.
+
+# Screenshot
+Aqui está uma screenshot do projeto :
+
+![screenshot](screenshot.jpg)
